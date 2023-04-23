@@ -9,3 +9,9 @@ Our goals:
 1. To explore chromatin difference in NeuN+ and NeuN- (TADs density, loops prominence, compartment changes);
 2. To detect polycomb interacting regions (fithic+H3K27me3 track);
 3. To compare neuronal and glial H3K9me3 tracks around the regions.
+
+## Pipelines
+
+![image](https://user-images.githubusercontent.com/122889154/233870434-15294eb1-7ad1-4328-8e11-bdc22794d693.png)
+![image](https://user-images.githubusercontent.com/122889154/233870455-b6a02543-9028-4464-9e95-fff4ed3f39a1.png)
+
