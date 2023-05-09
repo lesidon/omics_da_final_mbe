@@ -1,0 +1,8 @@
+{
+    "outdir": "out_chipseq",
+    "input": "samplesheet.csv",
+    "fasta": "/gss/home/l.sidorov/omics_final_project/omics_da_final_mbe/H3K27ac/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz",
+    "gtf": "/gss/home/l.sidorov/omics_final_project/omics_da_final_mbe/H3K27ac/Mus_musculus.GRCm39.109.gtf.gz",
+    "read_length": 75,
+    "max_cpus": 1
+}

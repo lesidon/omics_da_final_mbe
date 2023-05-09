@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,antibody,control
+WT_NeuN+_H3K27ac_REP1,./data/WT_NeuN+_H3K27ac_REP1/SRR13911720_1.fastq.gz,./data/WT_NeuN+_H3K27ac_REP1/SRR13911720_2.fastq.gz,,
+WT_NeuN+_H3K27ac_REP2,./data/WT_NeuN+_H3K27ac_REP2/SRR13911721_1.fastq.gz,./data/WT_NeuN+_H3K27ac_REP2/SRR13911721_2.fastq.gz,,
+WT_NeuN+_H3K27ac_REP3,./data/WT_NeuN+_H3K27ac_REP3/SRR13911722_1.fastq.gz,./data/WT_NeuN+_H3K27ac_REP3/SRR13911722_2.fastq.gz,,
+WT_NeuN_min_H3K27ac_REP1,./data/WT_NeuN_min_H3K27ac_REP1/SRR13911723_1.fastq.gz,./data/WT_NeuN_min_H3K27ac_REP1/SRR13911723_2.fastq.gz,,
+WT_NeuN_min_H3K27ac_REP2,./data/WT_NeuN_min_H3K27ac_REP2/SRR13911724_1.fastq.gz,./data/WT_NeuN_min_H3K27ac_REP2/SRR13911724_2.fastq.gz,,
+WT_NeuN_min_H3K27ac_REP3,./data/WT_NeuN_min_H3K27ac_REP3/SRR13911725_1.fastq.gz,./data/WT_NeuN_min_H3K27ac_REP3/SRR13911725_2.fastq.gz,,
