@@ -1,5 +1,6 @@
-# Mouse brain epigenome
-<i>The project was done by the team of four MSc Skoltech studetns -- Alisa Fedorenko, Ekaterina Kashuk, Ksenia Kubenko, and Leonid Sidorov.</i>
+<h1><img style="float: left;" src="https://github.com/lesidon/omics_da_final_mbe/assets/122889154/566f211e-4f6e-4281-a98c-92278f4896f1" height="110"/> Mouse brain epigenome </h1>
+
+<i>The project was done by the team of four MSc Skoltech studetns: Alisa Fedorenko, Ekaterina Kashuk, Ksenia Kubenko, and Leonid Sidorov.</i>
 
 ## Introduction
 
@@ -16,5 +17,10 @@ Our goals:
 #### [Intermediate report](https://github.com/lesidon/omics_da_final_mbe/blob/main/Project_10_intermediate_report-compressed.pdf)
 #### [Final presentation](https://github.com/lesidon/omics_da_final_mbe/blob/main/Project_10.pdf)
 
+## Datasets 
 
+All the datasets were taken from the materials of the following articles:
 
+- Chandrasekaran S, Espeso-Gil S, Loh YE, Javidfar B et al. Neuron-specific chromosomal megadomain organization is adaptive to recent retrotransposon expansions. Nat Commun 2021 Dec 13;12(1):7243. PMID: 34903713
+- Bonev B, Mendelson Cohen N, Szabo Q, Fritsch L et al. Multiscale 3D Genome Rewiring during Mouse Neural Development. Cell 2017 Oct 19;171(3):557-572.e24. PMID: 29053968
+- Ximerakis M, Lipnick SL, Innes BT, Simmons SK et al. Single-cell transcriptomic profiling of the aging mouse brain. Nat Neurosci 2019 Oct;22(10):1696-1708. PMID: 31551601
