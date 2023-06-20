@@ -1,6 +1,6 @@
 <h1><img style="float: left;" src="https://github.com/lesidon/omics_da_final_mbe/assets/122889154/566f211e-4f6e-4281-a98c-92278f4896f1" height="110"/> Mouse brain epigenome </h1>
 
-<i>The project was done by the team of four MSc Skoltech studetns: Alisa Fedorenko, Ekaterina Kashuk, Ksenia Kubenko, and Leonid Sidorov.</i>
+<i>The project was done by the team of four MSc Skoltech studetns: <a href='https://github.com/Alisa411'>Alisa Fedorenko</a>, <a href='https://github.com/katikoshak'>Ekaterina Kashuk</a>, <a href='https://github.com/kubenko-k'>Ksenia Kubenko</a>, and <a href='https://github.com/lesidon'>Leonid Sidorov</a>.</i>
 
 ## Introduction
 
