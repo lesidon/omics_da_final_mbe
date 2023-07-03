@@ -8,7 +8,7 @@ In this repository one can find the workflow for the final project of "Omics Dat
 
 Our goals:
 1. To compare neuronal and glial H3K9me3 track around the H3K27me3 regions in neurons, to investigate Ring1B (PRC1) linkage with H3K27me3 marks - Alisa Fedorenko;
-2. To detect significantly interacting regions (fithic), to identify H3K27ac track for open chromatin, to compare this track around the H3K27me3 - Leonid Sidorov;
+2. To detect significantly interacting regions (fithic) and to intersect it with H3K27me3 track, to identify H3K27ac track for open chromatin, to compare this track around the H3K27me3 - Leonid Sidorov;
 3. To find out a correlation between compartments, TADs and gene expression - Ksenia Kubenko;
 4. To explore chromatin difference in neuronal (NeuN+) and non-neuronal (NeuN−) nuclei (TADs density, loops prominence, compartment changes) - Ekaterina Kashuk.
 
